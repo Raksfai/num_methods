@@ -9,6 +9,7 @@ dependencies = [
     "matplotlib>=3.10.8",
     "nbconvert[webpdf]>=7.17.0",
     "numpy>=2.4.3",
+    "pandas>=3.0.2",
     "pandoc>=2.4",
     "scipy>=1.17.1",
     "sympy>=1.14.0",
